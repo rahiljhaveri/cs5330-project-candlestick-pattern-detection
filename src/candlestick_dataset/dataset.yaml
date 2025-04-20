@@ -1,0 +1,11 @@
+names:
+- doji
+- hammer
+- shooting_star
+- engulfing
+- morning_star
+- three_white_soldiers
+path: /Users/krutikbajariya/Krutik/CS5330/CV_Project/src/candlestick_dataset
+test: test/images
+train: train/images
+val: val/images
