@@ -5,7 +5,7 @@ names:
 - engulfing
 - morning_star
 - three_white_soldiers
-path: /Users/krutikbajariya/Krutik/CS5330/CV_Project/src/candlestick_dataset
+path: /home/bajariya.k/cs5330-project-candlestick-pattern-detection/src/candlestick_dataset
 test: test/images
 train: train/images
 val: val/images
