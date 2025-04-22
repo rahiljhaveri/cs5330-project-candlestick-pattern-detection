@@ -1,10 +1,10 @@
 names:
-- doji
-- hammer
-- shooting_star
-- engulfing
-- morning_star
-- three_white_soldiers
+- head_and_shoulders_top
+- head_and_shoulders_bottom
+- w_bottom
+- m_head
+- stockline
+- triangle
 path: /home/bajariya.k/cs5330-project-candlestick-pattern-detection/src/candlestick_dataset
 test: test/images
 train: train/images
