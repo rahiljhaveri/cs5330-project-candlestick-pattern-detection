@@ -77,7 +77,9 @@ def yolov8_video_inference(model_path, video_source=0, image_size=640, conf_thre
         cv2.imshow("YOLOv8 Live Detection", rendered_frame)
         
         # Check for user input to exit
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        key = cv2.waitKey(1) & 0xFF
+        if key == ord('q') or key == 27:  # 27 is the ASCII code for ESC
+            print("Exiting the program...")
             break
     
     # Release resources
