@@ -28,16 +28,23 @@ The dataset contains the following:
 
 
 # Reproducing Results
-Install dependencies
+
+### Install dependencies
+Create python virtual env with python=3.10.16
 ```
-create python virtual env with python=3.10.16
-activate the environment
-# install the required modules
+conda create --name <your-env-name>
+```
+Activate the environment
+```
+conda activate <your-env-name>
+```
+
+Install the required modules
+```
 pip install -r requirements.txt
 ```
 
-Run the program
+### Run the program
 ```
-cd src/
 python Pattern_Detection.py
 ```
