@@ -25,3 +25,19 @@ The dataset contains the following:
 - `test`: Testing data used for model development
 - `val`: Validation data used for tuning model performance
 - `dataset.yaml`: Configuration file describing the dataset structure and metadata
+
+
+# Reproducing Results
+Install dependencies
+```
+create python virtual env with python=3.10.16
+activate the environment
+# install the required modules
+pip install -r requirements.txt
+```
+
+Run the program
+```
+cd src/
+python Pattern_Detection.py
+```
