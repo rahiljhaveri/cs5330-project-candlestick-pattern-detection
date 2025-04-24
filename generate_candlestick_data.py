@@ -1,3 +1,17 @@
+# Krutik Bajariya & Rahil Jhaveri
+# CS 5330 - PRCV - Final Project
+# generate_candlestick_data.py
+# This script generates a dataset of stock chart patterns using historical stock data.
+# It downloads stock data from Yahoo Finance, detects various chart patterns, and saves the patterns as images with YOLO format annotations.
+# The detected patterns include:
+# - Head and Shoulders Top
+# - Head and Shoulders Bottom
+# - M Head (Double Top)
+# - W Bottom (Double Bottom)
+# - Triangle
+# - StockLine
+# The script uses the yfinance library to download stock data, and matplotlib to generate candlestick charts.
+
 import os
 import numpy as np
 import yfinance as yf

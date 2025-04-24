@@ -1,3 +1,7 @@
+# Krutik Bajariya & Rahil Jhaveri
+# CS 5330 - PRCV - Final Project
+# generate_candlestick_data.py
+# This is a script to perform object detection using YOLOv8 on a live video stream or a video file.
 from ultralytics import YOLO
 import torch
 import cv2
