@@ -10,9 +10,6 @@ Stock price movements exhibit various patterns that traders and analysts use to 
 # Demo Video
 [![Watch the video](Demo_Thumbnail.png)](https://drive.google.com/file/d/1uyz0cCfBZchSesqdDg8QN-RptX2NlR6O/view?usp=drive_link)
 
-# Presentation Video Link
-[![Watch the video](Presentation_Thumbnail.png)](https://drive.google.com/file/d/1Rk8qp6Oti3bfloX65UA2tJw_yR0WSopv/view?usp=sharing)
-
 # Dataset Link
 The dataset used in this project is available at the following location:
 
